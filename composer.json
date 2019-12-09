@@ -1,0 +1,13 @@
+{
+    "name": "tsyama/s3bu",
+    "authors": [
+        {
+            "name": "tsyama",
+            "email": "tsyama.desu@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.52",
+        "monolog/monolog": "^1.23"
+    }
+}
